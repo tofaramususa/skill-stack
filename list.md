@@ -10,6 +10,7 @@ Now l work in a fast moving high tech startup
 4. Systems thinking - putting pieces together, creativity, thinking about how to put things together
 
 Technical Skills(From working since Jan mainly):
+- Expertise in using advanced Python and Typescript languages
 - Ability to code with AI. Expertise with Cursor/Windsurf to produce features and solutions quickly. Need to learn with large codebases for this too
 - n8n - No code, using No Code to produce AI automations
 - Event monitoring and DevOps - Prom + Grafana + Traefik
@@ -23,6 +24,13 @@ Technical Skills(From working since Jan mainly):
 - CI-CD pipelines with Github Actions
 - Cloud native things --> need to improve in this -- learn cloudfare, learn AWS
 - AI Agents --> this is the meal ticket, need to build them, need to understand them. Need to build much more
+- Implementing high quality microservices apis - using python/fastapi
+- Professional Communication - working in high quality 
+- Cloud computing - AWS, Cloudfare, Creating Object stores
+- Mobile Development - React Native + Expo(SkillLevel)
+- Professional experience deploying high available self host software -- installing firewalls, ssh, ssl certificates, sudo users
+- Creating Deep Research Agent
+- Modern SaaS - using turborepo
 
 Improvements:
 - Just need to keep building
