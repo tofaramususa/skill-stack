@@ -36,3 +36,4 @@ Improvements:
 - Just need to keep building
 - Learn fullstack nextJS/modern SaaS
 - Learn Go. Build with it!
+- Need to learn K8s
