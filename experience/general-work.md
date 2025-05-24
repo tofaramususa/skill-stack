@@ -22,3 +22,5 @@ AI first:
 My new challenges:
 -  delivering projects from gathering requirements, brainstorming ideas all the way to shipping a product to the customer’s hands in a self-driven way.
 - Building modern JS/TS stack
+- Get AWS cloud certificate
+- Build personal projects. And get users.
