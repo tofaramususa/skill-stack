@@ -10,6 +10,8 @@ Production Systems:
 - Implementing code used by people
 - reliability, performance, and availability
 - microservices architecture and distributed systems
+- Ability to integrate and provide integration of different software services. External systems and API's
+- From above too, ability to understand documentation and understand new tools quickly and integrate them
 
 Work Style:
 - Fast moving, learning quickly, fast iteration and shipping code
