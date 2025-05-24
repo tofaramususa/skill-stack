@@ -24,3 +24,5 @@ My new challenges:
 - Building modern JS/TS stack
 - Get AWS cloud certificate
 - Build personal projects. And get users.
+- Serveless - cloudfare workers, AWS Lambda
+- AI Agents --> need to build more(CrewAI, Langchain, Langgraph) + MCP + DSPy

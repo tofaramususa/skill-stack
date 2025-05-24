@@ -1,5 +1,7 @@
 Experience:
 - building production high performance APIs - using latest python language features - decorators, other python techniques l need to find out
+- Basic understanding of Go and API frameworks --> gin, fiber
+- Use of Typescript to create nextjs api routes
 - Main framework - FastAPI, look at the other technology tools
 - Deep Understanding of REST API, implementing ratelimiting, authentication
 - Microservices architecture understanding - implementing communication between different services
@@ -22,6 +24,8 @@ Technologies
 - Pytest
 - Langchain, Langgraph, CrewAI, 
 - PromQL, creating Grafana dashboards
+- SemGrep - for code scanning and code security
+- Wrk for load testing and aslo
 
 Building Production Systems
 - Monitoring and Logging: Deep expertise in using Prometheus, Grafana, Opentelemetery, Traefik
