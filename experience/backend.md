@@ -9,6 +9,8 @@ Experience:
 - Unit testing, setting up CI/CD pipelines with a auto-deployment
 - Deep Experience with OOP
 - Databases + SQL
+- Documenting APIs -> Postman Collections
+- Testing APIs
 
 Thoughts:
 -  did soo many things and features implementing the snapshots API - l need to extract them
